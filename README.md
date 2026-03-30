@@ -2,7 +2,7 @@
 Autonomous Disaster Logistics Engine &amp; RAG-Ready Dataset. Developed for Microsoft &amp; Ubitech Hackathon.
 # 📡 Infinite Signal: Disaster Logistics Engine
 
-![Kaggle Usability]([https://img.shields.io/badge/Kaggle-10.0_Usability-blue?style=for-the-badge&logo=kaggle](https://medium.com/@sudeykacar/infinite-signal-building-a-rag-ready-disaster-logistics-engine-from-scratch-a711c50ac775))
+![Kaggle Usability]("C:\Users\pc\Pictures\Screenshots\Screenshot 2026-03-30 123926.png")
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **Infinite Signal** is a high-fidelity synthetic dataset and logistics framework designed for autonomous disaster relief orchestration. 
